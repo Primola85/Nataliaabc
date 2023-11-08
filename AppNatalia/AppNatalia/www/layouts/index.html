@@ -1,0 +1,135 @@
+<!doctype html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Permanent+Marker|Lobster|Indie+Flower|Pacifico|Orbitron|Dancing+Script|Dosis|Poiret+One|Kaushan+Script|Satisfy|Courgette|Seaweed+Script|Roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rakkas|Lemonada|Cairo|Amiri|Changa|Lateef|Reem+Kufi|Scheherazade|El+Messiri|Harmattan|Mirza|Katibeh">
+    <link rel="stylesheet" href="../fontello.css">
+    <link rel="stylesheet" href="../appyslim.css">
+    <link rel="stylesheet" href="../newUiCSS.css">
+    <link rel="stylesheet" href="../diamond.css">
+    <link href="" rel="stylesheet" id="googleFonts">
+    <style id="googleCss"></style>
+    <!-- JS -->
+    <script src="../font.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript">
+         var data=AndroidNativeLayout.provideManifestJson();
+         newdata = JSON.parse(data);
+         var googleFontsdata=''
+        if(newdata.appData.appPageFont.indexOf("cp-")>-1){
+                        googleFontsdata+=newdata.appData.appPageFont+'$$';
+                        }
+                        if(newdata.appData.navigationFont.indexOf("nav-")>-1){
+                        googleFontsdata+=newdata.appData.navigationFont+'$$';
+                        }
+                        if(newdata.appData.headerBarFont.indexOf("head-")>-1){
+                         googleFontsdata+=newdata.appData.headerBarFont+'$$';
+                        }
+         // Google FOnts
+         if(googleFontsdata.length>3){
+          callFont(googleFontsdata);
+         }
+         var activepage=JSON.parse(AndroidNativeLayout.providePageListJson());
+          newdata.home=activepage;
+         function layoutSetup(){
+         var optionclass='', hideLayoutClass='', navigationList='', size='',mainsize='', angle='', lineStart='', ratio='',radius='',overlay='', width='', layoutStyle='', icon="",moreLink='';
+
+         for(i=0; i<newdata.appData.layoutOption.length; i++){
+         optionclass+=newdata.appData.layoutOption[i]+"-option ";
+         }
+
+         for(i=0; i<newdata.appData.hideLayout.length; i++){
+         hideLayoutClass+=" hide-"+newdata.appData.hideLayout[i];
+         }
+         width = $(window).width();
+
+         if($(window).width()> $(window).height()){
+             width=$(window).height();
+         }
+         mainsize=newdata.home.length
+         size=newdata.home.length -1;
+                 if (size > 6) {
+                 size = 6;
+                 }
+                 if (newdata.home.length == 2) {
+                  size=2
+                 }
+         angle  = 360 / size;
+
+         lineStart  = angle / 2;
+
+         ratio  = 2.0;
+
+         if (width > 700) {
+                 ratio = 2.5
+         }
+         radius  = (width - 100) / ratio;
+         var loopcall =7;
+if(newdata.home.length > 7){
+ loopcall=6;
+
+}
+
+         if(newdata.appData.overLay ==="light" ){overlay='light'}else{ overlay='dark'}
+         for(i=0; i<newdata.home.length; i++){
+
+
+         if(i<loopcall){
+             if(newdata.home[i].pageiconType=="img"){ icon='<img src="'+newdata.login.iconPath+newdata.home[i].iconName+'">'}else{icon='<i class="'+newdata.home[i].iconName+'" style="color: '+newdata.appData.navIconColor+';"></i>'}
+         var leftpos=-1 * radius * Math.cos(2 * Math.PI * (i / size));
+         var toppos= -1 * radius * Math.sin(2 * Math.PI * (i / size));
+             navigationList+='<li style="left:'+ leftpos +'px; top:'+toppos+'px">\
+         <div class="moreOverlay '+overlay+'" > <div class="page-link" onclick="AndroidNativeLayout.openPageDetail(\''+newdata.home[i].pageIdentifierBecon+'\')"> <span> '+icon+' <span class="navText" style="color: '+newdata.appData.navTextColor+';">'+newdata.home[i].pageNewid+'</span></span></div> </div>\
+             </li> ';
+            if(newdata.home.length>1){
+          var lineAngle = lineStart + angle * i;
+          $(".line").eq(i).css("transform", "rotate(" + lineAngle + "deg)").show();}
+         }}
+         if(newdata.home.length>7){
+            moreLink='<li class="moreBtnClick more_btn"><div class="moreOverlay '+overlay+'"><div class="" onclick="AndroidNativeLayout.openMorePages()"><span class="icon"><i class="'+newdata.appData.moreIcon+'" style="color:'+newdata.appData.navIconColor+'"></i> </span> <span class="navText" style="color:'+newdata.appData.navTextColor+'">'+newdata.appData.more+'</span></div></div></li>';
+        }
+         var layout=
+         '<ul class="'+newdata.appData.navigationSize+' '+optionclass+'  '+hideLayoutClass+' '+newdata.appData.navigationFont+' step-'+newdata.home.length+'" size="'+newdata.home.length+'">'+navigationList+moreLink+'</ul>'
+         $(".app_navigation_diamond_listing").html(layout);
+
+
+         if (size == 1) {
+          //return false;
+         }
+         if (mainsize == "2" && newdata.home.length == "2") {
+          $(".line").hide();
+          $(".line").eq(0).show().addClass("line2")
+         }
+         if(mainsize != "2" ){
+         $(".app_navigation_diamond li:last-child").removeAttr("style").addClass("last more_btn").css("background", newdata.appData.moreNavigation.backgoundColor);
+         }
+         layoutStyle='.app_navigation_diamond ul.hide-border li.more_btn{background-color:'+newdata.appData.navBackgroundColor+'; border-color:'+newdata.appData.navBorderColor+';}        .app_navigation_diamond ul li.more_btn{ border-color:'+newdata.appData.navBackgroundColor+'; background-color:'+newdata.appData.navBorderColor+'; box-shadow:none; } .dark .app_navigation_diamond ul li.more_btn{            box-shadow: 0px 0px 20px rgba(0,0,0,0.5) inset; } .app_navigation_diamond .line{border-color:'+newdata.appData.navBorderColor+'} html,body{height:100%; width:100%; padding:0px; margin:0px; } .diamondlayout_diamond{width:100%; height:100%}';
+
+         $("#layoutStyle").html(layoutStyle);
+         $(".diamondlayout_diamond").css("background",newdata.appData.navBackgroundColor);
+         $(".layoutbgOverlay").addClass(overlay);
+         }
+         $( window ).resize(function() {layoutSetup()})
+      </script>
+    <style id="layoutStyle">
+    </style>
+</head>
+<body onload="layoutSetup()">
+<div class="diamondlayout_diamond">
+    <div class="layoutbgOverlay">
+        <div class="app_navigation_diamond">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+            <div class="app_navigation_diamond_listing"></div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
+</html>

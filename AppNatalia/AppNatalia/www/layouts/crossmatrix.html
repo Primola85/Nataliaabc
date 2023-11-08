@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Permanent+Marker|Lobster|Indie+Flower|Pacifico|Orbitron|Dancing+Script|Dosis|Poiret+One|Kaushan+Script|Satisfy|Courgette|Seaweed+Script|Roboto">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Rakkas|Lemonada|Cairo|Amiri|Changa|Lateef|Reem+Kufi|Scheherazade|El+Messiri|Harmattan|Mirza|Katibeh">
+    <link rel="stylesheet" href="../fontello.css">
+    <link rel="stylesheet" href="../appyslim.css">
+    <link rel="stylesheet" href="../newUiCSS.css">
+    <link rel="stylesheet" href="../crossmatrix.css">
+    <link href="" rel="stylesheet" id="googleFonts">
+    <style id="googleCss"></style>
+    <!-- JS -->
+    <script src="../font.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script type="text/javascript">
+         var data=AndroidNativeLayout.provideManifestJson();
+         newdata = JSON.parse(data);
+         var googleFontsdata=''
+        if(newdata.appData.appPageFont.indexOf("cp-")>-1){
+                        googleFontsdata+=newdata.appData.appPageFont+'$$';
+                        }
+                        if(newdata.appData.navigationFont.indexOf("nav-")>-1){
+                        googleFontsdata+=newdata.appData.navigationFont+'$$';
+                        }
+                        if(newdata.appData.headerBarFont.indexOf("head-")>-1){
+                         googleFontsdata+=newdata.appData.headerBarFont+'$$';
+                        }
+         // Google FOnts
+         if(googleFontsdata.length>3){
+          callFont(googleFontsdata);
+         }
+         var activepage=JSON.parse(AndroidNativeLayout.providePageListJson());
+          newdata.home=activepage;
+         function layoutSetup(){
+         var optionclass='', hideLayoutClass='', navigationList='', layoutStyle='', icon="";
+
+         for(i=0; i<newdata.appData.layoutOption.length; i++){
+         optionclass+=newdata.appData.layoutOption[i]+"-option ";
+         }
+
+         for(i=0; i<newdata.appData.hideLayout.length; i++){
+         hideLayoutClass+=" hide-"+newdata.appData.hideLayout[i];
+         }
+         for(i=0; i<newdata.home.length; i++){
+             if(newdata.home[i].pageiconType=="img"){ icon='<img src="'+newdata.login.iconPath+newdata.home[i].iconName+'">'}else{icon='<i class="'+newdata.home[i].iconName+'" style="color: '+newdata.appData.navIconColor+';"></i>'}
+
+             navigationList+='<li><div class="content" > <div href="#" class="page-link" onclick="AndroidNativeLayout.openPageDetail(\''+newdata.home[i].pageIdentifierBecon+'\')"> '+icon+' <span  style="color: '+newdata.appData.navTextColor+';">'+newdata.home[i].pageNewid+'</span></div> </div></li>';
+         }
+         layoutStyle='.app_navigation_crossmatrix li{border-color:'+newdata.appData.navBorderColor+'  !important; background:'+newdata.appData.navBackgroundColor+';} html,body{height:100%; width:100%; padding:0px; margin:0px; overflow-y: hidden; }';
+         $("#layoutStyle").html(layoutStyle);
+         $(".diamondlayout_diamond").css("background",newdata.appData.navBackgroundColor);
+         $("body").addClass(newdata.appData.appTheme)
+         $("#app_navigation").addClass(''+newdata.appData.navigationSize+' '+   newdata.appData.navigationFont +' '+  hideLayoutClass+' ' );
+         $("#app_navigation ul").html('<li><div class="content"></div></li> <li><div class="content"></div></li>'+navigationList);
+         var crossleghideborder = newdata.home.length * 73;
+        var crossleg = newdata.home.length * 70;
+        if (newdata.appData.hideLayout) {
+        if (newdata.appData.hideLayout.indexOf("border") != -1) {
+            $(".diamond-grid").css("width", crossleghideborder + "px");
+        } else {
+            $(".diamond-grid").css("width", crossleg + "px");
+        }
+        }
+         }
+         $( window ).resize(function() {layoutSetup()})
+      </script>
+    <style id="layoutStyle">
+    </style>
+</head>
+<body onload="layoutSetup()">
+<div class="crossmatrixWrapper" >
+    <div class="app_navigation_crossmatrix " id="app_navigation">
+        <ul class="diamond-grid">
+        </ul>
+    </div>
+</div>
+</body>
+</html>
+</html>

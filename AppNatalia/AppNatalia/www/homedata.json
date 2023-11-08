@@ -1,0 +1,1130 @@
+{
+        "pageJson": [
+            {
+                "id": "633abf4f91e0a92d1e42516f",
+                "data": {
+                    "type": "main",
+                    "settings": {
+                        "type": "container",
+                        "backgroundColor": "__CDN__PATH__inlineeditor/media/brockway-1.jpg",
+                        "color": "",
+                        "textAlign": "text-center",
+                        "padding": "pt-self-20 pe-self-20 pb-self-20 ps-self-20",
+                        "margin": "",
+                        "swiper": false,
+                        "fontFamily": ""
+                    },
+                    "elements": [],
+                    "data": [
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": "",
+                                "flip": false
+                            },
+                            "data": [
+                                {
+                                    "type": "text",
+                                    "text": "TASTE OF GREAT FOOD",
+                                    "settings": {
+                                        "type": "",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "visible": false
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": " Invest in Professional Development with a Rewarding Degree",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "#ffffff",
+                                        "backgroundColor": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below Food, in the end, in our own tradition, is something holy.",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "",
+                                        "backgroundColor": "",
+                                        "visible": false
+                                    }
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "Apply Now",
+                                    "settings": {
+                                        "type": "ios-link",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "pt-self-10 pe-self-20 pb-self-10 ps-self-20",
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#dc3545",
+                                        "fontFamily": "",
+                                        "enableLink": false
+                                    },
+                                    "link": "",
+                                    "target": false
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "Google Play",
+                                    "settings": {
+                                        "type": "android-link",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "#ffffff",
+                                        "backgroundColor": "#333333",
+                                        "visible": false
+                                    },
+                                    "link": "https://play.google.com/store/apps/details?id=com.app.deltronz"
+                                },
+                                {
+                                    "type": "image",
+                                    "src": "__CDN__PATH__inlineeditor/media/food-img-01.png",
+                                    "settings": {
+                                        "ratio": "1x1",
+                                        "size": "contain",
+                                        "type": "",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "visible": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "css": "\r\n    #id .slider-title {\r\n        font-size: 50px;\r\n    }\r\n    #id p{margin:0}\r\n    ",
+                "html": "<div data-type=\"main\">\r\n\r\n          <div class=\"repeat\" data-type=\"data\" data-index=\"--index--\">\r\n              <div class=\"row list-item d-block d-lg-flex\">\r\n                      <div class=\"col d-flex flex-column justify-content-center position-relative justify-content-lg-center\" style=\"aspect-ratio:2/1\"> \r\n                            <div class=\"slider-subtitle fs-5 text-capitalize list-element\" data-type=\"data\" data-index=\"0\">TASTE OF GREAT FOOD</div>\r\n                            <div class=\"slider-title fw-bold display-1 my-3 text-capitalize list-element\" data-type=\"data\" data-index=\"1\">UNIQUE TASTY</div>\r\n                            <div class=\"slider-description list-element\" data-type=\"data\" data-index=\"2\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below Food, in the end, in our own tradition, is something holy. </div>\r\n                            <div class=\"slider-button\">\r\n                                <a class=\"btn rounded-pill btn-md rounded-0 mt-4 text-capitalize px-4 py-3 me-2 list-element\" href=\"#\" data-type=\"data\" data-index=\"3\">App Store</a>\r\n                                <a class=\"btn rounded-pill btn-md rounded-0 mt-4 text-capitalize px-4 py-3  list-element\" href=\"#\" data-type=\"data\" data-index=\"4\">Google Play</a>\r\n                            </div> \r\n                      </div> \r\n                      <img data-type=\"data\" data-index=\"5\" class=\"list-element w-100 img-style col\">\r\n                       \r\n                  </div>  \r\n          </div> \r\n    </div>",
+                "blockType": "62f23f706ccaa067206103d9"
+            },
+            {
+                "id": "637b1f1a4a92cd013f12b31b",
+                "data": {
+                    "type": "main",
+                    "settings": {
+                        "type": "container-fluid",
+                        "backgroundColor": "#f4f6f8",
+                        "padding": "ps-self-10 pe-self-10",
+                        "margin": ""
+                    },
+                    "elements": [
+                        {
+                            "type": "text",
+                            "text": "Everything you need to know to make your decision ",
+                            "settings": {
+                                "type": "",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": "##104d6b"
+                            }
+                        },
+                        {
+                            "type": "heading",
+                            "text": "Plan your Path and Make Informed Decisions",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "pt-self-0 pe-self-0 pb-self-10 ps-self-0",
+                                "padding": "",
+                                "color": "#104d6b",
+                                "backgroundColor": "",
+                                "fontFamily": ""
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": "Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua. Utenim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": "#104d6b"
+                            }
+                        },
+                        {
+                            "type": "link",
+                            "text": "Read More",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "color": "#fff",
+                                "backgroundColor": "#e60103"
+                            }
+                        }
+                    ],
+                    "data": [
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "#4f92b3",
+                                "color": "#fff"
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "01.",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": "COURSES",
+                                    "settings": {
+                                        "type": "h3",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "Buy Now",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "#222",
+                                        "backgroundColor": "#fff",
+                                        "visible": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "#104d6b",
+                                "color": "#fff"
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "02.",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": "RESEARCH",
+                                    "settings": {
+                                        "type": "h3",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "Buy Now",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "#222",
+                                        "backgroundColor": "#fff",
+                                        "visible": false
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "#e60103",
+                                "color": "#fff"
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "03.",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": "SCHOLARSHIPS",
+                                    "settings": {
+                                        "type": "h3",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "Buy Now",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "#222",
+                                        "backgroundColor": "#fff",
+                                        "visible": false
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "css": "\r\n      #id .description {\r\n        font-size: 14px;\r\n      }\r\n      #id .title {\r\n        font-size: 30px;\r\n      }\r\n      #id  .heading {\r\n          font-weight: 700;\r\n      }\r\n     #id .paragraph {\r\n          letter-spacing: 0.01em;\r\n      }\r\n     \r\n      #id .theme-btn-color {\r\n          background-color: #e60103;\r\n          border-color: #e60103;\r\n          font-weight: 500;\r\n      }\r\n\r\n      @media (min-width: 992px) {\r\n        #id .brockway-college-box {\r\n          max-width: 480px;\r\n          width: 100%;\r\n          margin-left: auto;\r\n      }\r\n      #id .brockway-item {\r\n          max-width: 500px;\r\n      }\r\n      }\r\n   \r\n      \r\n    ",
+                "html": "<div data-type=\"main\">  \r\n            \r\n            <div class=\"row align-items-center row-cols-1 row-cols-lg-2\">\r\n              <div class=\"col col ps-lg-5 pt-5 p-4\">\r\n                  <div class=\"brockway-item w-100\">\r\n                    <div class=\"description mb-1\" data-type=\"elements\" data-index=\"0\"><i>Take a look to our limted time dayily promotions</i></div>\r\n                    <div class=\"heading display-5 mb-4\" data-type=\"elements\" data-index=\"1\">POMOTIONS & DISCOUNTS</div>\r\n              \r\n                    <div class=\"discounts text-start\">\r\n                        <div class=\"paragraph mb-4\"  data-type=\"elements\" data-index=\"2\">Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua. Utenim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>\r\n                        <a href=\"#\" class=\"btn btn-danger rounded-0 px-4 py-2 theme-btn-color mb-4\"  data-type=\"elements\" data-index=\"3\">Read More</a>\r\n                    </div>\r\n                  </div>\r\n              </div>\r\n                <div class=\"col pe-lg-0 p-4 pt-md-0 pb-md-0\"> \r\n                  <div class=\"brockway-college-box repeat\" data-type=\"data\" data-index=\"--index--\">\r\n                      <div class=\"list-item p-5\">\r\n                              <div class=\"list-element fw-light mb-2 text-white\" data-index=\"0\" data-type=\"data\">Lasagne with tomatoes</div>\r\n                              <div class=\"sub-heading text-white text-uppercase extra-content list-element\" data-index=\"1\" data-type=\"data\">$ 11.00</div>\r\n                              <div class=\"py-3 mb-1 list-element\" data-index=\"2\" data-type=\"data\">\r\n                                  Interdum iusto pulvinar consequuntur augue optio repellat fugaurus expedita fusce temporibus est odit mi\r\n                                  quosliquid semper, veritatis dignissimos.\r\n                              </div>\r\n                              <div>\r\n                                <a href=\"#\" class=\"btn btn-primary btn-md text-uppercase px-4 py-2 border-0 list-element\" data-index=\"3\" data-type=\"data\">Buy Now</a>\r\n                              </div>\r\n                 \r\n                      </div> \r\n                    </div>\r\n                </div>\r\n                </div>\r\n    </div>",
+                "blockType": "62fb6eddecf96818eb6bc438"
+            },
+            {
+                "id": "630726048d6b83401849c5b7",
+                "data": {
+                    "type": "main",
+                    "settings": {
+                        "type": "container",
+                        "backgroundColor": "",
+                        "padding": "ps-self-0 pt-self-50 pe-self-0 pb-self-50",
+                        "margin": "",
+                        "color": "#4f92b3",
+                        "fontFamily": ""
+                    },
+                    "elements": [],
+                    "data": [
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "icon",
+                                    "src": "fal fa-bolt-lightning",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "visible": false
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": "Research Paper Published",
+                                    "settings": {
+                                        "type": "h3",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "<b>2500+</b>",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "fontSize": "58px"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "icon",
+                                    "src": "fal fa-fire",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "visible": false
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": "Scholarship Distributed",
+                                    "settings": {
+                                        "type": "h3",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "<b>30  Cr+</b>",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "mt-self-36 me-self-33 mb-self-0 ms-self-0",
+                                        "padding": "pt-self-6 pe-self-0 pb-self-8 ps-self-0",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "fontSize": "16px",
+                                        "fontFamily": "Roboto Mono"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "icon",
+                                    "src": "fal fa-wallet",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "visible": false
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": "Alumnus",
+                                    "settings": {
+                                        "type": "h3",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "<b>25000+</b>",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "fontSize": "58px"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "icon",
+                                    "src": "fal fa-megaphone",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "visible": false
+                                    }
+                                },
+                                {
+                                    "type": "heading",
+                                    "text": "Placements",
+                                    "settings": {
+                                        "type": "h3",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": ""
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "<b>20000+</b>",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "",
+                                        "fontSize": "58px",
+                                        "fontFamily": ""
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "css": "\r\n  #id .feature-box i {\r\n      width: 60px;\r\n      height: 60px;\r\n      border-radius: 50%;\r\n      line-height: 60px;\r\n      text-align: center;\r\n      background: #f5f5f5;\r\n      font-size: 26px;\r\n      margin-bottom: 20px;\r\n  } \r\n  #id .feature-box {\r\n      text-align: center;\r\n      padding: 20px 0;\r\n  } \r\n  #id .feature-box h3 {\r\n      font-size: 18px;\r\n      font-weight: bold;\r\n  } \r\n  #id .feature-box p {\r\n      font-size: 15px;\r\n  }\r\n \r\n    ",
+                "html": "<div class=\"container\" data-type=\"main\"> \r\n    <div class=\"row\"> \r\n        <div class=\"col-sm-6 col-lg-3 repeat\" data-type=\"data\" data-index=\"--index--\">\r\n            <div class=\"feature-box list-item\">\r\n                <i class=\"icon-shop list-element\" data-index=\"0\" data-type=\"data\" ></i>\r\n                <h3 class=\"list-element\" data-index=\"1\" data-type=\"data\" >e-Commerce Solutions</h3>\r\n                <div class=\"list-element\" data-index=\"2\" data-type=\"data\" >Start your Own Shop today</div>\r\n            </div>\r\n        </div>  \r\n    </div>  \r\n</div>",
+                "blockType": "62fb6eddecf96818eb6bc438"
+            },
+            {
+                "id": "637b64afae4827127826e36f",
+                "data": {
+                    "type": "main",
+                    "settings": {
+                        "type": "container",
+                        "backgroundColor": "#f4f6f8",
+                        "padding": "py-5 p-4",
+                        "margin": ""
+                    },
+                    "elements": [
+                        {
+                            "type": "heading",
+                            "text": "Upcoming Events",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "color": "#104d6b",
+                                "backgroundColor": ""
+                            }
+                        },
+                        {
+                            "type": "link",
+                            "text": "EXPLORE ALL EVENTS",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "color": "",
+                                "backgroundColor": ""
+                            }
+                        }
+                    ],
+                    "data": [
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": "#212529"
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "01",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#212529"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Sat",
+                                    "settings": {
+                                        "type": "text",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#104d6b"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Feb",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#104d6b"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#212529"
+                                    }
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "REGISTER NOW",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "",
+                                        "backgroundColor": ""
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": "#212529"
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "02",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#212529"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Sat",
+                                    "settings": {
+                                        "type": "text",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#104d6b"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Feb",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#104d6b"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#212529"
+                                    }
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "REGISTER NOW",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "",
+                                        "backgroundColor": ""
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": "#212529"
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "03",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#212529"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Sat",
+                                    "settings": {
+                                        "type": "text",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#104d6b"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Feb",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#104d6b"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#212529"
+                                    }
+                                },
+                                {
+                                    "type": "link",
+                                    "text": "REGISTER NOW",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "color": "",
+                                        "backgroundColor": ""
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "css": "\r\n      #id .description {\r\n        font-size: 14px;\r\n      }\r\n      #id .title {\r\n        font-size: 30px;\r\n      }\r\n      #id  .heading {\r\n          font-weight: 700;\r\n          font-size: 2.5rem;\r\n      }\r\n     #id .paragraph {\r\n          letter-spacing: 0.01em;\r\n      }\r\n      #id .list-group-item{\r\n        padding-left:0px;\r\n        padding-right:0px;\r\n      }\r\n      #id .theme-btn-color {\r\n          background-color: #e60103;\r\n          border-color: #e60103\r\n          font-weight: 500;\r\n      }\r\n      .date{\r\n        font-size:2.5rem;\r\n      }\r\n    ",
+                "html": "<div data-type=\"main\">  \r\n            \r\n            <div class=\"row justify-content-center\">\r\n              <div class=\"col col-lg-12 col-xl-10\">\r\n                <div class=\"events-list mb-5\">\r\n                    <div class=\"heading mb-4\" data-type=\"elements\" data-index=\"0\">Upcoming Events</div>\r\n\r\n                    <div class=\"list-group list-group-flush\">\r\n                      <div class=\"list-group-item bg-transparent py-4 mb-3 repeat\" data-type=\"data\" data-index=\"--index--\"> \r\n                          <div class=\"list-item row d-block d-md-flex align-items-center item\">\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <div class=\"d-flex w-100 align-items-center\">\r\n                                    <span class=\"date me-2 text-truncate list-element\" data-index=\"0\" data-type=\"data\">04</span>\r\n                                    <div class=\"days d-flex flex-column text-truncate w-50 theme-text-color text-opacity-50\"><div class=\"list-element\" data-index=\"1\" data-type=\"data\">Sat</div> <div class=\"list-element\" data-index=\"2\" data-type=\"data\" class=\"months\">Feb</div></div>\r\n                                </div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-6 col-lg-8\">\r\n                                <div class=\"paragraph my-3 list-element\" data-index=\"3\" data-type=\"data\">Saturday Fair Great Hall, Brockway Community College Saturday Fair Great Hall, Brockway Community College</div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <a data-index=\"4\" data-type=\"data\" href=\"#\" class=\"btn btn-danger text-uppercase rounded-0 theme-btn-color w-100 list-element\">REGISTER NOW</a> \r\n                            </div>\r\n                            </div>\r\n\r\n                      </div> \r\n                    </div>\r\n\r\n                    <div class=\"col text-center mt-4\">\r\n                        <a data-type=\"elements\" data-index=\"1\" href=\"#\" class=\"btn btn-danger text-uppercase rounded-0 px-4 py-2 theme-btn-color list-element\">See All Events</a>\r\n                    </div>\r\n\r\n                </div>\r\n               \r\n              </div>\r\n                \r\n            </div>\r\n    </div>",
+                "blockType": "62fb6eddecf96818eb6bc438"
+            },
+            {
+                "id": "637f0a8a2151cc01fc7ddd72",
+                "data": {
+                    "type": "main",
+                    "settings": {
+                        "type": "container-fluid",
+                        "backgroundColor": "",
+                        "padding": "pt-self-20 pe-self-20 pb-self-0 ps-self-20",
+                        "margin": ""
+                    },
+                    "elements": [
+                        {
+                            "type": "heading",
+                            "text": "Gallery",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "color": "#000",
+                                "backgroundColor": ""
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": "I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you.",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "color": "#104d6b",
+                                "backgroundColor": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-3.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-2.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-4.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-5.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-6.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-4.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-5.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        },
+                        {
+                            "type": "image",
+                            "src": "__CDN__PATH__inlineeditor/media/brockway-7.jpg",
+                            "settings": {
+                                "ratio": "1x1",
+                                "size": "cover",
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            }
+                        }
+                    ],
+                    "data": []
+                },
+                "css": "\r\n    \r\n    #id .gallery-items{\r\n      transition:.3s;\r\n    }\r\n    #id .gallery-items:hover{\r\n    \r\n    }\r\n     #id .heading{\r\n        font-size:2.5rem;\r\n      }\r\n      #id .paragraph {\r\n        font-size: 1.25rem;\r\n      }\r\n      #id .btn{\r\n        font-size:1.25rem;\r\n      }\r\n      @media(max-width:991px){\r\n         #id .main-col{\r\n        width:100% !important;\r\n      }\r\n      }\r\n    ",
+                "html": "<div data-type=\"main\">  \r\n\r\n                <div class=\"row\">\r\n                 <div class=\"col-xl-10\">\r\n                    <div class=\"sec-head\">\r\n                      <div class=\"heading my-4\" data-type=\"elements\" data-index=\"0\">Upcoming Events</div>\r\n                        <div class=\"paragraph mb-5\" data-type=\"elements\" data-index=\"1\">'m a paragraph. Click here to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.</div>\r\n                    </div> \r\n                </div>\r\n                </div>\r\n            \r\n                <div class=\"row\">\r\n                  <div class=\"col-xl-12\">\r\n                    <div class=\"row\">\r\n                      <div class=\"col-lg-4 main-col\" style=\"width: 36.33%;\">\r\n                          <div class=\"row\">\r\n                            \r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img data-type=\"elements\" data-index=\"2\" src=\"images/brockway-gallery-img-02.jpg\" alt=\"\" class=\"img-fluid w-100\">\r\n                                      </picture>\r\n                                  </div>\r\n\r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img data-type=\"elements\" data-index=\"3\" src=\"images/brockway-gallery-img-02.jpg\" alt=\"\" class=\"img-fluid w-100\">\r\n                                      </picture>\r\n                                  </div>\r\n                          </div>\r\n\r\n                          <div class=\"row\">\r\n                             <div class=\"col my-4\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                     <img data-type=\"elements\" data-index=\"4\" src=\"images/brockway-gallery-img-03.jpg\" alt=\"\" class=\"img-fluid w-100\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                          \r\n                      </div>\r\n\r\n                      <div class=\"col-lg-3 main-col\" style=\"width: 27.23%;\">\r\n                          <div class=\"row\">\r\n                              <div class=\"col\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                      <img src=\"images/brockway-gallery-img-04.jpg\" data-type=\"elements\" data-index=\"5\" alt=\"\" class=\"img-fluid w-100\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                          <div class=\"row\">\r\n                              <div class=\"col my-4\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                      <img src=\"images/brockway-gallery-img-05.jpg\" data-type=\"elements\" data-index=\"6\" alt=\"\" class=\"img-fluid w-100\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                      </div>\r\n\r\n                      <div class=\"col-lg-4 main-col\" style=\"width:36.33%\">\r\n                          <div class=\"row\">\r\n                            \r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img data-type=\"elements\" data-index=\"7\" src=\"images/brockway-gallery-img-02.jpg\" alt=\"\" class=\"img-fluid w-100\">\r\n                                      </picture>\r\n                                  </div>\r\n\r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img data-type=\"elements\" data-index=\"8\" src=\"images/brockway-gallery-img-02.jpg\" alt=\"\" class=\"img-fluid w-100\">\r\n                                      </picture>\r\n                                  </div>\r\n                          </div>\r\n\r\n                          <div class=\"row\">\r\n                             <div class=\"col my-4\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                     <img data-type=\"elements\" data-index=\"9\" src=\"images/brockway-gallery-img-03.jpg\" alt=\"\" class=\"img-fluid w-100\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                          \r\n                      </div>\r\n\r\n                     \r\n\r\n                    </div>\r\n                  </div>\r\n                </div>\r\n            </div>",
+                "blockType": "62fb6ee2388d1027d71e780c"
+            },
+            {
+                "id": "footer2",
+                "data": {
+                    "type": "main",
+                    "settings": {
+                        "type": "container",
+                        "backgroundColor": "#104d6b",
+                        "color": "#ffffff",
+                        "textAlign": "",
+                        "padding": "ps-self-20 pt-self-50 pe-self-0 pb-self-20",
+                        "margin": ""
+                    },
+                    "elements": [],
+                    "data": [
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "Address:",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#cecece"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "123BE. Example Street Ashland,<br> United States,<br>USA 12345",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "m-self-0",
+                                        "padding": "p-self-0",
+                                        "backgroundColor": "",
+                                        "color": "#ffffff"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "Phone Number:",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#cecece"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "+1 1234 5678 01<br>+1 5678 1234 02",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "m-self-0",
+                                        "padding": "p-self-0",
+                                        "backgroundColor": "",
+                                        "color": "#ffffff"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "Email:",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#cecece"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "info@example.com<br>contact@example.com",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "m-self-0",
+                                        "padding": "p-self-0",
+                                        "backgroundColor": "",
+                                        "color": "#ffffff"
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "type": "item",
+                            "settings": {
+                                "textAlign": "",
+                                "margin": "",
+                                "padding": "",
+                                "backgroundColor": "",
+                                "color": ""
+                            },
+                            "data": [
+                                {
+                                    "type": "heading",
+                                    "text": "Time:",
+                                    "settings": {
+                                        "type": "h5",
+                                        "textAlign": "",
+                                        "margin": "",
+                                        "padding": "",
+                                        "backgroundColor": "",
+                                        "color": "#cecece"
+                                    }
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "11:00am - 06:00pm<br>Sunday Closed",
+                                    "settings": {
+                                        "textAlign": "",
+                                        "margin": "m-self-0",
+                                        "padding": "p-self-0",
+                                        "backgroundColor": "",
+                                        "color": "#ffffff"
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "css": "\n    #id .slide-img, \n    #id .slide-img img {\n       width: 100%;\n    }\n    ",
+                "html": "<div class=\"section\" data-type=\"main\">\n        <div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-4\"> \n          <div class=\"col mb-5 repeat\" data-type=\"data\" data-index=\"--index--\">\n              <div class=\"list-item\">\n                <h5 class=\"h6 fw-bold pb-3 list-element\" data-type=\"data\" data-index=\"0\">Address:</h5>\n                <div data-type=\"data\" data-index=\"1\" class=\"list-element\" style=\"font-size:12px\">\n                123BE. Example Street Ashland,<br> United States,<br>USA 12345\n                </div>\n              </div> \n          </div> \n        </div> \n    </div>",
+                "blockType": "footer"
+            }
+        ],
+        "pageHtml": "\r\n      <div class=\"app-header no-header live-view\" style=\"background-color: rgb(255, 255, 255); background-image: inherit;\"> \r\n        <section class=\"header-block container p-0 py-3\">\r\n            <div class=\"row\">\r\n                <div class=\"col-12 col-md-5 col-lg-5 d-flex align-items-center justify-content-center justify-content-md-start justify-content-lg-start\">\r\n                    <div class=\"d-flex align-items-center mb-3 mb-lg-0 mb-md-0\">\r\n                        <img src=\"__CDN__PATH__inlineeditor/media/brockway-logo.png\" class=\"logo\" id=\"logo\" style=\"padding-right: 10px; height: 50px;\">\r\n                        <span class=\"title display-6 fw-bold\" id=\"title\" style=\"color: rgb(68, 68, 68);\">Brockway</span>\r\n                    </div>\r\n                </div>\r\n                <div class=\"col-12 col-md-7 col-lg-7 d-flex\">\r\n                    <div class=\"d-flex flex-column flex-md-row flex-lg-row align-items-center mx-auto mx-lg-0 mx-md-0 ms-md-auto ms-lg-auto\">\r\n                        <div class=\"social\" id=\"social\"><a class=\"fa fab fa-facebook\" href=\"https://www.facebook.com/\" target=\"_blank\" style=\"color: rgb(68, 68, 68); border-color: rgb(68, 68, 68);\"></a><a class=\"fa fab fa-twitter\" href=\"https://twitter.com/\" target=\"_blank\" style=\"color: rgb(68, 68, 68); border-color: rgb(68, 68, 68);\"></a><a class=\"fa fab fa-youtube\" href=\"https://www.youtube.com/\" target=\"_blank\" style=\"color: rgb(68, 68, 68); border-color: rgb(68, 68, 68);\"></a><a class=\"fa fab fa-linkedin\" href=\"https://www.linkedin.com/\" target=\"_blank\" style=\"color: rgb(68, 68, 68); border-color: rgb(68, 68, 68);\"></a></div>\r\n                        <a class=\"btn btn-secondary border-0 ms-3 me-3 me-md-0 me-lg-0 ms-md-3 ms-lg-3 shadow-sm mt-3 mt-lg-0 mt-md-0 d-none\" id=\"button\" style=\"color: rgb(255, 255, 255);\">Get Started</a>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n            \r\n\r\n            \r\n        </section>\r\n        \r\n        </div>\r\n      <div class=\"app-blocks live-view\"><section class=\"block container-fluid p-0 m-0 id-633abf4f91e0a92d1e42516f 62f23f706ccaa067206103d9\" id=\"id-633abf4f91e0a92d1e42516f\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-1.jpg&quot;); background-size: cover;\">\r\n            \r\n            \r\n            \r\n            \r\n            \r\n            <div data-type=\"main\" class=\"container text-center pt-self-20 pe-self-20 pb-self-20 ps-self-20\"><div class=\"repeat\">\r\n              <div class=\"row list-item d-block d-lg-flex item\">\r\n                      <div class=\"col d-flex flex-column justify-content-center position-relative justify-content-lg-center\" style=\"aspect-ratio:2/1\"> \r\n                            <div class=\"slider-subtitle fs-5 text-capitalize list-element hide-item text\">TASTE OF GREAT FOOD</div>\r\n                            <div class=\"slider-title fw-bold display-1 my-3 text-capitalize list-element heading\" style=\"color: rgb(255, 255, 255);\"> Invest in Professional Development with a Rewarding Degree</div>\r\n                            <div class=\"slider-description list-element hide-item text\">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below Food, in the end, in our own tradition, is something holy.</div>\r\n                            <div class=\"slider-button\">\r\n                                <a class=\"btn rounded-pill btn-md rounded-0 mt-4 text-capitalize px-4 py-3 me-2 list-element link pt-self-10 pe-self-20 pb-self-10 ps-self-20\" href=\"#\" style=\"color: rgb(255, 255, 255); background-color: rgb(220, 53, 69); background-image: inherit;\">Apply Now</a>\r\n                                <a class=\"btn rounded-pill btn-md rounded-0 mt-4 text-capitalize px-4 py-3 list-element hide-item link\" href=\"https://play.google.com/store/apps/details?id=com.app.deltronz\" style=\"color: rgb(255, 255, 255); background-color: rgb(51, 51, 51); background-image: inherit;\">Google Play</a>\r\n                            </div> \r\n                      </div> \r\n                      <img class=\"list-element w-100 img-style col hide-item image contain\" src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/food-img-01.png&quot;);\">\r\n                       \r\n                  </div>  \r\n          </div></div>\r\n        </section><section class=\"block container-fluid p-0 m-0 id-637b1f1a4a92cd013f12b31b 62fb6eddecf96818eb6bc438\" id=\"id-637b1f1a4a92cd013f12b31b\" style=\"background-color: rgb(244, 246, 248); background-image: inherit;\">\r\n            \r\n            \r\n            \r\n            \r\n            \r\n            <div data-type=\"main\" class=\"container-fluid ps-self-10 pe-self-10\">  \r\n            \r\n            <div class=\"row align-items-center row-cols-1 row-cols-lg-2\">\r\n              <div class=\"col col ps-lg-5 pt-5 p-4\">\r\n                  <div class=\"brockway-item w-100\">\r\n                    <div class=\"description mb-1 text\">Everything you need to know to make your decision </div>\r\n                    <div class=\"heading display-5 mb-4 pt-self-0 pe-self-0 pb-self-10 ps-self-0\" style=\"color: rgb(16, 77, 107);\">Plan your Path and Make Informed Decisions</div>\r\n              \r\n                    <div class=\"discounts text-start\">\r\n                        <div class=\"paragraph mb-4 text\" style=\"color: rgb(16, 77, 107);\">Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua. Utenim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</div>\r\n                        <a href=\"#\" class=\"btn btn-danger rounded-0 px-4 py-2 theme-btn-color mb-4 link\" style=\"color: rgb(255, 255, 255); background-color: rgb(230, 1, 3); background-image: inherit;\">Read More</a>\r\n                    </div>\r\n                  </div>\r\n              </div>\r\n                <div class=\"col pe-lg-0 p-4 pt-md-0 pb-md-0\"><div class=\"brockway-college-box repeat\">\r\n                      <div class=\"list-item p-5 item\" style=\"color: rgb(255, 255, 255); background-color: rgb(79, 146, 179); background-image: inherit;\">\r\n                              <div class=\"list-element fw-light mb-2 text-white heading h5\">01.</div>\r\n                              <div class=\"sub-heading text-white text-uppercase extra-content list-element heading h3\">COURSES</div>\r\n                              <div class=\"py-3 mb-1 list-element text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>\r\n                              <div>\r\n                                <a href=\"#\" class=\"btn btn-primary btn-md text-uppercase px-4 py-2 border-0 list-element hide-item link\" style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); background-image: inherit;\">Buy Now</a>\r\n                              </div>\r\n                 \r\n                      </div> \r\n                    </div><div class=\"brockway-college-box repeat\">\r\n                      <div class=\"list-item p-5 item\" style=\"color: rgb(255, 255, 255); background-color: rgb(16, 77, 107); background-image: inherit;\">\r\n                              <div class=\"list-element fw-light mb-2 text-white heading h5\">02.</div>\r\n                              <div class=\"sub-heading text-white text-uppercase extra-content list-element heading h3\">RESEARCH</div>\r\n                              <div class=\"py-3 mb-1 list-element text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>\r\n                              <div>\r\n                                <a href=\"#\" class=\"btn btn-primary btn-md text-uppercase px-4 py-2 border-0 list-element hide-item link\" style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); background-image: inherit;\">Buy Now</a>\r\n                              </div>\r\n                 \r\n                      </div> \r\n                    </div><div class=\"brockway-college-box repeat\">\r\n                      <div class=\"list-item p-5 item\" style=\"color: rgb(255, 255, 255); background-color: rgb(230, 1, 3); background-image: inherit;\">\r\n                              <div class=\"list-element fw-light mb-2 text-white heading h5\">03.</div>\r\n                              <div class=\"sub-heading text-white text-uppercase extra-content list-element heading h3\">SCHOLARSHIPS</div>\r\n                              <div class=\"py-3 mb-1 list-element text\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>\r\n                              <div>\r\n                                <a href=\"#\" class=\"btn btn-primary btn-md text-uppercase px-4 py-2 border-0 list-element hide-item link\" style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255); background-image: inherit;\">Buy Now</a>\r\n                              </div>\r\n                 \r\n                      </div> \r\n                    </div></div>\r\n                </div>\r\n    </div>\r\n        </section><section class=\"block container-fluid p-0 m-0 id-630726048d6b83401849c5b7 62fb6eddecf96818eb6bc438\" id=\"id-630726048d6b83401849c5b7\" style=\"color: rgb(79, 146, 179);\">\r\n            \r\n            \r\n            \r\n            \r\n            \r\n            <div class=\"container ps-self-0 pt-self-50 pe-self-0 pb-self-50\" data-type=\"main\"> \r\n    <div class=\"row\"><div class=\"col-sm-6 col-lg-3 repeat\">\r\n            <div class=\"feature-box list-item item\">\r\n                <i class=\"icon-shop list-element hide-item icon fa fal fa-bolt-lightning\"></i>\r\n                <h3 class=\"list-element heading h3\">Research Paper Published</h3>\r\n                <div class=\"list-element text\" style=\"font-size: 58px;\"><b>2500+</b></div>\r\n            </div>\r\n        </div><div class=\"col-sm-6 col-lg-3 repeat\">\r\n            <div class=\"feature-box list-item item\">\r\n                <i class=\"icon-shop list-element hide-item icon fa fal fa-fire\"></i>\r\n                <h3 class=\"list-element heading h3\">Scholarship Distributed</h3>\r\n                <div class=\"list-element text mt-self-36 me-self-33 mb-self-0 ms-self-0 pt-self-6 pe-self-0 pb-self-8 ps-self-0\" style=\"font-family: &quot;Roboto Mono&quot;; font-size: 16px;\"><b>30  Cr+</b></div>\r\n            </div>\r\n        </div><div class=\"col-sm-6 col-lg-3 repeat\">\r\n            <div class=\"feature-box list-item item\">\r\n                <i class=\"icon-shop list-element hide-item icon fa fal fa-wallet\"></i>\r\n                <h3 class=\"list-element heading h3\">Alumnus</h3>\r\n                <div class=\"list-element text\" style=\"font-size: 58px;\"><b>25000+</b></div>\r\n            </div>\r\n        </div><div class=\"col-sm-6 col-lg-3 repeat\">\r\n            <div class=\"feature-box list-item item\">\r\n                <i class=\"icon-shop list-element hide-item icon fa fal fa-megaphone\"></i>\r\n                <h3 class=\"list-element heading h3\">Placements</h3>\r\n                <div class=\"list-element text\" style=\"font-size: 58px;\"><b>20000+</b></div>\r\n            </div>\r\n        </div></div>  \r\n</div>\r\n        </section><section class=\"block container-fluid p-0 m-0 id-637b64afae4827127826e36f 62fb6eddecf96818eb6bc438\" id=\"id-637b64afae4827127826e36f\" style=\"background-color: rgb(244, 246, 248); background-image: inherit;\">\r\n            \r\n            \r\n            \r\n            \r\n            \r\n            <div data-type=\"main\" class=\"container py-5 p-4\">  \r\n            \r\n            <div class=\"row justify-content-center\">\r\n              <div class=\"col col-lg-12 col-xl-10\">\r\n                <div class=\"events-list mb-5\">\r\n                    <div class=\"heading mb-4\" style=\"color: rgb(16, 77, 107);\">Upcoming Events</div>\r\n\r\n                    <div class=\"list-group list-group-flush\"><div class=\"list-group-item bg-transparent py-4 mb-3 repeat\"> \r\n                          <div class=\"list-item row d-block d-md-flex align-items-center item\" style=\"color: rgb(33, 37, 41);\">\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <div class=\"d-flex w-100 align-items-center\">\r\n                                    <span class=\"date me-2 text-truncate list-element heading h5\" style=\"color: rgb(33, 37, 41);\">01</span>\r\n                                    <div class=\"days d-flex flex-column text-truncate w-50 theme-text-color text-opacity-50\"><div class=\"list-element text\" style=\"color: rgb(16, 77, 107);\">Sat</div> <div class=\"list-element text\" style=\"color: rgb(16, 77, 107);\">Feb</div></div>\r\n                                </div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-6 col-lg-8\">\r\n                                <div class=\"paragraph my-3 list-element text\" style=\"color: rgb(33, 37, 41);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <a href=\"#\" class=\"btn btn-danger text-uppercase rounded-0 theme-btn-color w-100 list-element link\">REGISTER NOW</a> \r\n                            </div>\r\n                            </div>\r\n\r\n                      </div><div class=\"list-group-item bg-transparent py-4 mb-3 repeat\"> \r\n                          <div class=\"list-item row d-block d-md-flex align-items-center item\" style=\"color: rgb(33, 37, 41);\">\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <div class=\"d-flex w-100 align-items-center\">\r\n                                    <span class=\"date me-2 text-truncate list-element heading h5\" style=\"color: rgb(33, 37, 41);\">02</span>\r\n                                    <div class=\"days d-flex flex-column text-truncate w-50 theme-text-color text-opacity-50\"><div class=\"list-element text\" style=\"color: rgb(16, 77, 107);\">Sat</div> <div class=\"list-element text\" style=\"color: rgb(16, 77, 107);\">Feb</div></div>\r\n                                </div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-6 col-lg-8\">\r\n                                <div class=\"paragraph my-3 list-element text\" style=\"color: rgb(33, 37, 41);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <a href=\"#\" class=\"btn btn-danger text-uppercase rounded-0 theme-btn-color w-100 list-element link\">REGISTER NOW</a> \r\n                            </div>\r\n                            </div>\r\n\r\n                      </div><div class=\"list-group-item bg-transparent py-4 mb-3 repeat\"> \r\n                          <div class=\"list-item row d-block d-md-flex align-items-center item\" style=\"color: rgb(33, 37, 41);\">\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <div class=\"d-flex w-100 align-items-center\">\r\n                                    <span class=\"date me-2 text-truncate list-element heading h5\" style=\"color: rgb(33, 37, 41);\">03</span>\r\n                                    <div class=\"days d-flex flex-column text-truncate w-50 theme-text-color text-opacity-50\"><div class=\"list-element text\" style=\"color: rgb(16, 77, 107);\">Sat</div> <div class=\"list-element text\" style=\"color: rgb(16, 77, 107);\">Feb</div></div>\r\n                                </div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-6 col-lg-8\">\r\n                                <div class=\"paragraph my-3 list-element text\" style=\"color: rgb(33, 37, 41);\">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</div>\r\n                            </div>\r\n\r\n                            <div class=\"col col-md-3 col-lg-2\">\r\n                                <a href=\"#\" class=\"btn btn-danger text-uppercase rounded-0 theme-btn-color w-100 list-element link\">REGISTER NOW</a> \r\n                            </div>\r\n                            </div>\r\n\r\n                      </div></div>\r\n\r\n                    <div class=\"col text-center mt-4\">\r\n                        <a href=\"#\" class=\"btn btn-danger text-uppercase rounded-0 px-4 py-2 theme-btn-color list-element link\">EXPLORE ALL EVENTS</a>\r\n                    </div>\r\n\r\n                </div>\r\n               \r\n              </div>\r\n                \r\n            </div>\r\n    </div>\r\n        </section><section class=\"block container-fluid p-0 m-0 id-637f0a8a2151cc01fc7ddd72 62fb6ee2388d1027d71e780c\" id=\"id-637f0a8a2151cc01fc7ddd72\">\r\n            \r\n            \r\n            \r\n            \r\n            \r\n            <div data-type=\"main\" class=\"container-fluid pt-self-20 pe-self-20 pb-self-0 ps-self-20\">  \r\n\r\n                <div class=\"row\">\r\n                 <div class=\"col-xl-10\">\r\n                    <div class=\"sec-head\">\r\n                      <div class=\"heading my-4\" style=\"color: rgb(0, 0, 0);\">Gallery</div>\r\n                        <div class=\"paragraph mb-5 text\" style=\"color: rgb(16, 77, 107);\">I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you.</div>\r\n                    </div> \r\n                </div>\r\n                </div>\r\n            \r\n                <div class=\"row\">\r\n                  <div class=\"col-xl-12\">\r\n                    <div class=\"row\">\r\n                      <div class=\"col-lg-4 main-col\" style=\"width: 36.33%;\">\r\n                          <div class=\"row\">\r\n                            \r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-3.jpg&quot;);\">\r\n                                      </picture>\r\n                                  </div>\r\n\r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-2.jpg&quot;);\">\r\n                                      </picture>\r\n                                  </div>\r\n                          </div>\r\n\r\n                          <div class=\"row\">\r\n                             <div class=\"col my-4\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                     <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-4.jpg&quot;);\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                          \r\n                      </div>\r\n\r\n                      <div class=\"col-lg-3 main-col\" style=\"width: 27.23%;\">\r\n                          <div class=\"row\">\r\n                              <div class=\"col\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                      <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-5.jpg&quot;);\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                          <div class=\"row\">\r\n                              <div class=\"col my-4\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                      <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-6.jpg&quot;);\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                      </div>\r\n\r\n                      <div class=\"col-lg-4 main-col\" style=\"width:36.33%\">\r\n                          <div class=\"row\">\r\n                            \r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-4.jpg&quot;);\">\r\n                                      </picture>\r\n                                  </div>\r\n\r\n                                  <div class=\"col\">\r\n                                      <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                         <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-5.jpg&quot;);\">\r\n                                      </picture>\r\n                                  </div>\r\n                          </div>\r\n\r\n                          <div class=\"row\">\r\n                             <div class=\"col my-4\">\r\n                                  <picture class=\"d-block position-relative overflow-hidden gallery-items\">\r\n                                     <img src=\"__CDN__PATH__inlineeditor/images/image-1x1.png\" alt=\"\" class=\"img-fluid w-100 image cover\" style=\"background-image: url(&quot;__CDN__PATH__inlineeditor/media/brockway-7.jpg&quot;);\">\r\n                                  </picture>\r\n                              </div>\r\n                          </div>\r\n                          \r\n                      </div>\r\n\r\n                     \r\n\r\n                    </div>\r\n                  </div>\r\n                </div>\r\n            </div>\r\n        </section></div>\r\n      <div class=\"app-footer live-view\"><section class=\"block container-fluid p-0 m-0 id-footer2 footer\" id=\"id-footer2\" style=\"color: rgb(255, 255, 255); background-color: rgb(16, 77, 107); background-image: inherit;\">\r\n            \r\n            \r\n            \r\n            \r\n            \r\n            <div class=\"section container ps-self-20 pt-self-50 pe-self-0 pb-self-20\" data-type=\"main\">\r\n        <div class=\"row row-cols-1 row-cols-md-2 row-cols-lg-4\"><div class=\"col mb-5 repeat\">\r\n              <div class=\"list-item item\">\r\n                <h5 class=\"h6 fw-bold pb-3 list-element heading h5\" style=\"color: rgb(206, 206, 206);\">Address:</h5>\r\n                <div class=\"list-element text m-self-0 p-self-0\" style=\"font-size: 12px; color: rgb(255, 255, 255);\">123BE. Example Street Ashland,<br> United States,<br>USA 12345</div>\r\n              </div> \r\n          </div><div class=\"col mb-5 repeat\">\r\n              <div class=\"list-item item\">\r\n                <h5 class=\"h6 fw-bold pb-3 list-element heading h5\" style=\"color: rgb(206, 206, 206);\">Phone Number:</h5>\r\n                <div class=\"list-element text m-self-0 p-self-0\" style=\"font-size: 12px; color: rgb(255, 255, 255);\">+1 1234 5678 01<br>+1 5678 1234 02</div>\r\n              </div> \r\n          </div><div class=\"col mb-5 repeat\">\r\n              <div class=\"list-item item\">\r\n                <h5 class=\"h6 fw-bold pb-3 list-element heading h5\" style=\"color: rgb(206, 206, 206);\">Email:</h5>\r\n                <div class=\"list-element text m-self-0 p-self-0\" style=\"font-size: 12px; color: rgb(255, 255, 255);\">info@example.com<br>contact@example.com</div>\r\n              </div> \r\n          </div><div class=\"col mb-5 repeat\">\r\n              <div class=\"list-item item\">\r\n                <h5 class=\"h6 fw-bold pb-3 list-element heading h5\" style=\"color: rgb(206, 206, 206);\">Time:</h5>\r\n                <div class=\"list-element text m-self-0 p-self-0\" style=\"font-size: 12px; color: rgb(255, 255, 255);\">11:00am - 06:00pm<br>Sunday Closed</div>\r\n              </div> \r\n          </div></div> \r\n    </div>\r\n        </section></div>\r\n      \r\n    ",
+        "pageHeader": "{\"settings\":{\"color\":\"#444444\",\"backgroundColor\":\"#ffffff\"},\"logo\":{\"src\":\"__CDN__PATH__inlineeditor/media/brockway-logo.png\",\"settings\":{\"height\":\"50\",\"width\":\"\",\"visible\":true}},\"title\":{\"text\":\"Brockway\",\"settings\":{\"color\":\"#444444\",\"visible\":true}},\"social\":{\"data\":[{\"icon\":\"fab fa-facebook\",\"link\":\"https://www.facebook.com/\"},{\"icon\":\"fab fa-twitter\",\"link\":\"https://twitter.com/\"},{\"icon\":\"fab fa-youtube\",\"link\":\"https://www.youtube.com/\"},{\"icon\":\"fab fa-linkedin\",\"link\":\"https://www.linkedin.com/\"}],\"settings\":{\"color\":\"#000000\",\"visible\":true}},\"button\":{\"text\":\"Get Started\",\"settings\":{\"color\":\"#fff\",\"visible\":false}}}"
+}
